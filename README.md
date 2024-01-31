@@ -17,6 +17,9 @@
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
+
+https://pdf.wondershare.com.br/ocr/extracting-text-from-image-python.html#:~:text=Leitores%20de%20OCR%20como%20o,ts%20do%20leitor%20de%20OCR.
+
 -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
